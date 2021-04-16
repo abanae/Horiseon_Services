@@ -15,7 +15,7 @@ A marketing agency that follows accessibility standards with improved codebase f
 * Added discriptive comments for elements.
 
 ## SCREENSHOT:
-![Horiseon](screenshot)
+![Horiseon Website Screenshot](./assets/images/screenshot.jpg)
 
 ## LINK TO WEBSITE:
 [Horiseon-Services](https://abanae.github.io/Horiseon_Services/#social-media-marketing)
